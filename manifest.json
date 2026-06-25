@@ -1,1 +1,15 @@
-
+{
+  "extensions": [
+    {
+      "id": "customer_display",
+      "name": "Customer Display",
+      "tagline": "A customer-facing second screen with live video signage",
+      "description": "Turn a second monitor into a customer display — live order summary, current order number, menu boards, image/video slideshows and full-screen video. Installs as an independent app so video plays smoothly, controlled from the till.",
+      "icon": "display",
+      "version": "1.0.0",
+      "sizeBytes": 24353034,
+      "installerUrl": "https://raw.githubusercontent.com/M-Farooq-Azaad/fuego-alto-extensions/main/releases/FuegoAlto-CustomerDisplay-Setup-1.0.0.exe",
+      "sha256": "05c2c7f2f0d19429dfa3d7cae19c9183690ccacb64b3be8330bc019214eb9449"
+    }
+  ]
+}

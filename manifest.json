@@ -7,9 +7,9 @@
       "description": "Turn a second monitor into a customer display — live order summary, current order number, menu boards, image/video slideshows and full-screen video. Installs as an independent app so video plays smoothly, controlled from the till.",
       "icon": "display",
       "version": "1.0.0",
-      "sizeBytes": 24353937,
+      "sizeBytes": 24353873,
       "installerUrl": "https://raw.githubusercontent.com/M-Farooq-Azaad/fuego-alto-extensions/main/releases/FuegoAlto-CustomerDisplay-Setup-1.0.0.exe",
-      "sha256": "5528b71db404779ff739b63a65cb912796d5c886764e815839456993dd39d8df"
+      "sha256": "06f83d91c755f1cde2b7ed1e842086feed07e1e5405cb3934e4268aa7dd0d30b"
     }
   ]
 }
